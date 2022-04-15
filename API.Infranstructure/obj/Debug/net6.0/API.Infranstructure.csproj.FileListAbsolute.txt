@@ -1,0 +1,17 @@
+C:\Users\user\Source\Repos\src\API.Infranstructure\bin\Debug\net6.0\API.Infranstructure.deps.json
+C:\Users\user\Source\Repos\src\API.Infranstructure\bin\Debug\net6.0\API.Infranstructure.runtimeconfig.json
+C:\Users\user\Source\Repos\src\API.Infranstructure\bin\Debug\net6.0\API.Infranstructure.dll
+C:\Users\user\Source\Repos\src\API.Infranstructure\bin\Debug\net6.0\API.Infranstructure.pdb
+C:\Users\user\Source\Repos\src\API.Infranstructure\bin\Debug\net6.0\API.Core.dll
+C:\Users\user\Source\Repos\src\API.Infranstructure\bin\Debug\net6.0\API.Core.pdb
+C:\Users\user\Source\Repos\src\API.Infranstructure\obj\Debug\net6.0\API.Infranstructure.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\src\API.Infranstructure\obj\Debug\net6.0\API.Infranstructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Source\Repos\src\API.Infranstructure\obj\Debug\net6.0\API.Infranstructure.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\src\API.Infranstructure\obj\Debug\net6.0\API.Infranstructure.AssemblyInfo.cs
+C:\Users\user\Source\Repos\src\API.Infranstructure\obj\Debug\net6.0\API.Infranstructure.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\src\API.Infranstructure\obj\Debug\net6.0\API.Infranstructure.csproj.CopyComplete
+C:\Users\user\Source\Repos\src\API.Infranstructure\obj\Debug\net6.0\API.Infranstructure.dll
+C:\Users\user\Source\Repos\src\API.Infranstructure\obj\Debug\net6.0\refint\API.Infranstructure.dll
+C:\Users\user\Source\Repos\src\API.Infranstructure\obj\Debug\net6.0\API.Infranstructure.pdb
+C:\Users\user\Source\Repos\src\API.Infranstructure\obj\Debug\net6.0\API.Infranstructure.genruntimeconfig.cache
+C:\Users\user\Source\Repos\src\API.Infranstructure\obj\Debug\net6.0\ref\API.Infranstructure.dll

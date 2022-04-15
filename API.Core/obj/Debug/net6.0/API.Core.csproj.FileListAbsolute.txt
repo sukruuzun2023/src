@@ -1,0 +1,14 @@
+C:\Users\user\Source\Repos\src\API.Core\bin\Debug\net6.0\API.Core.deps.json
+C:\Users\user\Source\Repos\src\API.Core\bin\Debug\net6.0\API.Core.runtimeconfig.json
+C:\Users\user\Source\Repos\src\API.Core\bin\Debug\net6.0\API.Core.dll
+C:\Users\user\Source\Repos\src\API.Core\bin\Debug\net6.0\API.Core.pdb
+C:\Users\user\Source\Repos\src\API.Core\obj\Debug\net6.0\API.Core.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\src\API.Core\obj\Debug\net6.0\API.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Source\Repos\src\API.Core\obj\Debug\net6.0\API.Core.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\src\API.Core\obj\Debug\net6.0\API.Core.AssemblyInfo.cs
+C:\Users\user\Source\Repos\src\API.Core\obj\Debug\net6.0\API.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\src\API.Core\obj\Debug\net6.0\API.Core.dll
+C:\Users\user\Source\Repos\src\API.Core\obj\Debug\net6.0\refint\API.Core.dll
+C:\Users\user\Source\Repos\src\API.Core\obj\Debug\net6.0\API.Core.pdb
+C:\Users\user\Source\Repos\src\API.Core\obj\Debug\net6.0\API.Core.genruntimeconfig.cache
+C:\Users\user\Source\Repos\src\API.Core\obj\Debug\net6.0\ref\API.Core.dll

@@ -713,7 +713,7 @@
           }
         }
       },
-      "API.Data/1.0.0": {
+      "API.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -721,10 +721,25 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.4"
         },
         "compile": {
-          "bin/placeholder/API.Data.dll": {}
+          "bin/placeholder/API.Core.dll": {}
         },
         "runtime": {
-          "bin/placeholder/API.Data.dll": {}
+          "bin/placeholder/API.Core.dll": {}
+        }
+      },
+      "API.Infranstructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "API.Core": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.4",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.4"
+        },
+        "compile": {
+          "bin/placeholder/API.Infranstructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/API.Infranstructure.dll": {}
         }
       }
     }
@@ -2050,15 +2065,20 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "API.Data/1.0.0": {
+    "API.Core/1.0.0": {
       "type": "project",
-      "path": "../API.Data/API.Data.csproj",
-      "msbuildProject": "../API.Data/API.Data.csproj"
+      "path": "../API.Core/API.Core.csproj",
+      "msbuildProject": "../API.Core/API.Core.csproj"
+    },
+    "API.Infranstructure/1.0.0": {
+      "type": "project",
+      "path": "../API.Infranstructure/API.Infranstructure.csproj",
+      "msbuildProject": "../API.Infranstructure/API.Infranstructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "API.Data >= 1.0.0",
+      "API.Infranstructure >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.4",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.4",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.4",
@@ -2102,8 +2122,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\user\\Source\\Repos\\src\\API.Data\\API.Data.csproj": {
-              "projectPath": "C:\\Users\\user\\Source\\Repos\\src\\API.Data\\API.Data.csproj"
+            "C:\\Users\\user\\Source\\Repos\\src\\API.Infranstructure\\API.Infranstructure.csproj": {
+              "projectPath": "C:\\Users\\user\\Source\\Repos\\src\\API.Infranstructure\\API.Infranstructure.csproj"
             }
           }
         }
